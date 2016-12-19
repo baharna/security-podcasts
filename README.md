@@ -18,9 +18,11 @@ An alphabetic list of recurring security podcasts, broken out between active and
 - [Southern Fried Security Podcast](http://www.southernfriedsecurity.com/) - Semi-monthly - The Southern Fried Security Podcast is designed to be an information security podcast that fills the gap between technical security podcasts and Security Now. (\*\*Note: Website seems inactive but the podcast is being updated)
 - [The Social Engineering Podcast](http://www.social-engineer.org/category/podcast/) - Semi-monthly - The second Monday of each month we will be releasing a new and exciting episode, each with its own specific topic of the month.
 - [Threatpost News Wrap](https://threatpost.com/category/podcasts/) - Weekly - Weekly security news podcast from Kaspersky.
+- [Trusted Security Podcast](https://www.trustedsec.com/podcast/) - Weekly information seurity podcast by the Trusted Security team. Contains news and analysis.
+- [Threatwire](http://www.hak5.org/category/episodes/threatwire) - Weekly - A weekly information security news show by the Hak5 team. 
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - Weekly - I do a weekly show called Unsupervised Learning, where I collect my favorite stories in infosec, technology, and humans, and talk about why they matter. 
 
 #### Inactive Podcasts
 - [Tradecraft Tuesday](https://threatpost.com/category/podcasts/) - (\*\*Note: Last updated on August 16, 2016)
-- [Trusted Security Podcast](https://www.trustedsec.com/podcast/) - (\*\*Note: Website states they are reworking the format and will be back)
+
 
