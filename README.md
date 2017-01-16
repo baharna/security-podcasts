@@ -24,6 +24,6 @@ An alphabetic list of recurring security podcasts, broken out between active and
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - Weekly - I do a weekly show called Unsupervised Learning, where I collect my favorite stories in infosec, technology, and humans, and talk about why they matter. 
 
 #### Inactive Podcasts
-- [Tradecraft Tuesday](https://threatpost.com/category/podcasts/) - (\*\*Note: Last updated on August 16, 2016)
+- [Tradecraft Tuesday](https://www.youtube.com/channel/UC1UTMpeR_FnmvXxcIhw443g) - (\*\*Note: Last updated on August 16, 2016)
 
 
