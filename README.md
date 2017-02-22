@@ -7,6 +7,7 @@ An alphabetic list of recurring security podcasts, broken out between active and
 - [Cigital Silver Bullet Podcast](https://www.cigital.com/podcast/) - Monthly - Interviews, news and commentary, hosted by software security pioneer Gary McGraw
 - [Defensive Security Podcast](http://www.defensivesecurity.org/) - Weekly - Defensive Security is a cyber security podcast covering breaches and strategies for defense.
 - [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/) - Weekly - Weekly security podcast hsted by Rafal Los, James Jardine, and Michael Santarcangelo.
+- [Exploring Information Security](http://www.timothydeblock.com/eis/) - Weekly - A weekly information security podcast that interviews a infosec professional on different infosec-related topics.
 - [Hak5](https://www.hak5.org/) - Weekly - Hak5 has been developing innovative penetration testing devices, award winning online media and immersive information security training since 2005.
 - [Paul's Security Weekly](http://securityweekly.com/) - Weekly - Watch Paul's Security Weekly for the latest information security news, research, hacker techniques, vulnerabilities, and technical how-tos!
 - [Primal Security Podcast](http://www.primalsecurity.net/podcasts/) - Monthly - Ramblings and opinions on security news, conferences, blog content, and [Insert_Random_Here].
