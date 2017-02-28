@@ -5,6 +5,7 @@ An alphabetic list of recurring security podcasts, broken out between active and
 - [Advanced Persistent Security](https://advancedpersistentsecurity.net/) - Weekly - We are an information security blog and podcast. We also dabble in open source projects.
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - Weekly - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace. Co-hosts Bryan Brake and Brian Boettcher teach concepts that aspiring Information Security Professionals need to know, or refresh the memories of the seasoned veterans.
 - [Cigital Silver Bullet Podcast](https://www.cigital.com/podcast/) - Monthly - Interviews, news and commentary, hosted by software security pioneer Gary McGraw
+- [Cyber Security Interviews](https://cybersecurityinterviews.com/) - Weekly - Cyber Security Interviews is the weekly podcast dedicated to digging into the minds of the influencers, thought leaders, and individuals who shape the cyber security industry.
 - [Defensive Security Podcast](http://www.defensivesecurity.org/) - Weekly - Defensive Security is a cyber security podcast covering breaches and strategies for defense.
 - [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/) - Weekly - Weekly security podcast hsted by Rafal Los, James Jardine, and Michael Santarcangelo.
 - [East Coast Infosec](https://eastcoastinfosec.ca/) - Weekly - This "purple team" podcast will examine a mix of offensive "red team" and defensive "blue team" security issues and strategies.
