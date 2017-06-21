@@ -31,6 +31,6 @@ An alphabetic list of recurring security podcasts, broken out between active and
 #### Inactive Podcasts
 - [Tradecraft Tuesday](https://www.youtube.com/channel/UC1UTMpeR_FnmvXxcIhw443g) - (\*\*Note: Last updated in August 2016)
 - [PVC Security](http://www.pvcsec.com/) - Weekly - Passion, Vision, Communication (& Execution) in Leadership & Security Podcast (\*\*Note: Potential return in early July)
-- [Advanced Persistent Security](https://advancedpersistentsecurity.net/) - Weekly - We are an information security blog and podcast. We also dabble in open source projects.(\*\*Note: Last update in February 2017)
+- [Advanced Persistent Security](https://advancedpersistentsecurity.net/) - Weekly - We are an information security blog and podcast. We also dabble in open source projects.(\*\*Note: Returning soon, episodes already produced)
 - [Sound Security Podcast](https://soundsecurity.io/) - Monthly - Sound Security is made up of Braxton and Osman, two InfoSec nerds from the Puget Sound who love to rant and argue about the rotating cast of miracle cure vendors, brilliant researchers, forced acronyms, groan-inducing vulnerabilities, gasp-inducing vulnerabilities, pointy-haired bosses, and other-hyphenated-things that make up our beloved security industry.(\*\*Note: Last update in December 2016.)
 
